@@ -1,4 +1,4 @@
-@media (min-width: 300px) {
+@media (max-width: 1000px) {
     .about .row {
         display: flex;
         flex-direction: column-reverse;
