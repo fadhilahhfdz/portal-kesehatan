@@ -1,0 +1,33 @@
+@media (max-width: 600px) {
+    .about .row {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .about img {
+        width: 300px;
+    }
+
+    .about .teks-head {
+        width: 100%;
+    }
+
+    .kesehatan {
+        padding: 10px;
+        width: 100%;
+    }
+
+    .penyakit {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .penyakit .card {
+        margin-top: 10px !important;
+        width: 90% !important;
+    }
+
+    iframe {
+        width: 90%;
+        height: 215px;
+    }
+}
