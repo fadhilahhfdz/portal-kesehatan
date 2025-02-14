@@ -30,4 +30,12 @@
         width: 90%;
         height: 215px;
     }
+
+    .card-text {
+        margin-bottom: 2
+    }
+
+    .tombolNext {
+        margin-top: 0 !important;
+    }
 }
