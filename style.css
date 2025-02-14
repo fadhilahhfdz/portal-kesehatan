@@ -53,4 +53,10 @@ footer {
     footer {
         font-size: small;
     }
+
+    footer p {
+        margin-left: 30px;
+        margin-right: 30px;
+        text-align: center;
+    }
 }
