@@ -15,7 +15,7 @@ footer {
         flex-direction: column-reverse;
     }
     .about img {
-        width: 300px;
+        width: 250px;
     }
 
     .about .teks-head {
@@ -48,5 +48,9 @@ footer {
 
     .tombolNext {
         margin-top: 0 !important;
+    }
+
+    footer {
+        font-size: small;
     }
 }
