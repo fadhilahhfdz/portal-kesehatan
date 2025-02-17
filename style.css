@@ -9,6 +9,19 @@ footer {
     margin-top: auto;
 }
 
+.konten .container {
+    margin-bottom: 10%;
+}
+
+.card {
+    width: 20rem;
+    height: 18rem;
+}
+
+.penyakit {
+    gap: 4%;
+}
+
 @media (max-width: 1000px) {
     .about .row {
         display: flex;
@@ -33,17 +46,13 @@ footer {
     }
     
     .penyakit .card {
-        margin-top: 10px !important;
+        margin-top: 25px !important;
         width: 90% !important;
     }
 
     iframe {
         width: 90%;
         height: 215px;
-    }
-
-    .card-text {
-        margin-bottom: 2
     }
 
     .tombolNext {
